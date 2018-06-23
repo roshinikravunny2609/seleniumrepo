@@ -1,0 +1,27 @@
+Uses
+# monitor the changes
+# version control
+#evrything gets stored in the server-- GIT is a repository
+#pull into local
+#work and then push
+#merge the local wit the master
+#two ppl push and commit same file
+#then push at diff times to avoid conflicts
+git commands in git bash
+# git init to convert a directory to git
+#git add filename
+#git delete
+#git status
+#git rm filename ---- to remove the file from the master
+# git commit -m "filename"
+#git config --global "user.email"
+#git config --global "user.name"
+#git remote add origin https://github/credentials
+#git push -u origin master
+#github username and password shd be given in the popup
+#git checkout -b branchname
+#git add
+#git commit -m ""
+#git remote add origin branchname
+#git checkout master -- to switch to master from local or any other branch
+#git pull-- to pull that branch or master
